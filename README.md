@@ -3,7 +3,7 @@
 
 # Project Description
 
-Python app utilizing FastAPI Framework
+Python api utilizing FastAPI Framework
 
 
 ## Built With
